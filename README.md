@@ -5,11 +5,12 @@ A redundant, secure, and scalable hospital network architecture designed using G
 
 ## 📸 Network Topology
 
-### Branche 1 Architecture
-![Branch 1 Topology](./topology_branch1.png)
-
-### Branch 2 Architecture
+### Branch 1 Architecture
 ![Branch 2 Topology](./topology_branch2.png)
+
+
+### Branche 2 Architecture
+![Branch 1 Topology](./topology_branch1.png)
 
 
 ## 🛠️ Technologies Used
